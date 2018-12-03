@@ -1,0 +1,18 @@
+{
+  "name": "adventofcode-2018",
+  "version": "1.0.0",
+  "description": "Solutions for https://adventofcode.com/2018",
+  "main": "index.js",
+  "repository": "git@github.com:heygambo/adventofcode-2018.git",
+  "author": "Christian Gambardella",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "nodemon": "^1.18.7"
+  }
+}
